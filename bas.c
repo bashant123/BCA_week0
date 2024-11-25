@@ -10,7 +10,7 @@ int main()
     scanf("%d",&e1.id);
     printf("Enter name:");
     scanf("%s",e1.name);
-    printf("Wmp ID: %d\n",e1:id);
+    printf("Wmp ID: %d\n",e1.id);
     printf("Emp name: %s\n",e1.name);
     return 0;
 }
